@@ -50,7 +50,7 @@ A leading retail company wants to better understand its customers’ shopping be
 
 ## 4️⃣ Data Analysis (SQL)
 
-Performed structured analysis in PostgreSQL to answer business questions:
+Performed structured analysis in MySQL to answer business questions:
 
 1. **Revenue by Gender:** Compare revenue of male vs female customers  
 2. **High-Spending Discount Users:** Identify customers using discounts but spending above average  
@@ -99,5 +99,3 @@ Performed structured analysis in PostgreSQL to answer business questions:
 5. **GitHub Repository** – Python scripts, SQL queries, dashboard, and documentation  
 
 ---
-
-## 8️⃣ Folder Structure (Example)
